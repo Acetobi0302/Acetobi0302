@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Acetobi0302&label=Profile%20views&color=0e75b6&style=flat" alt="Acetobi0302" /> </p>
 <p align="center" style = "size:16px;">
-### Languages and Tools:
+ Languages and Tools:
 
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/)
