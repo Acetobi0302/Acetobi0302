@@ -21,12 +21,10 @@
 
 [![Solidity](https://github.com/msilucifer/msilucifer/blob/master/solidity.png)](https://github.com/Acetobi0302/)
 [![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/)
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/)
-[![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=haskell&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/)
+[![Web3](https://img.shields.io/badge/-Web3-00ADD8?style=flat&logo=go&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/)
 
-[![NodeJS](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=nodedotjs&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/) 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/) 
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/) 
+[![Laravel](https://img.shields.io/badge/-Laravel-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/) 
 [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/) 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/Acetobi0302/)
 
@@ -36,10 +34,6 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-DDE072?style=flat&logo=mongodb&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/)
-
-[![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/Acetobi0302/)
-[![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/Acetobi0302/)
-[![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/Acetobi0302/)
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/)
 [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/msilucifer/)](https://github.com/Acetobi0302/)
