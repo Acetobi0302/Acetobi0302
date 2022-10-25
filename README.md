@@ -1,6 +1,6 @@
 ### <a href="https://www.freelancer.com/u/monathcorey">Corey Monath</a> 👋
 
-<h1 align="center">👋 Senior Blockchain and Full Stack Engineer</h1>
+<h1 align="center">👋 Senior Blockchain and Frontend Engineer</h1>
 
 😎 Trusted engineer with 5+ years of experience in blockchain industry.
 
