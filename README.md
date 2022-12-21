@@ -2,7 +2,10 @@
 
 <h1 align="center">👋 Senior Blockchain and Frontend Engineer</h1>
 
-😎 Trusted engineer with 7+ years of experience in blockchain industry.
+Thanks for your visiting my profile.<br />
+I'm ✌Daniel Jonathan Richard✌ from United State and an experienced Blockchain Developer and Frontend Engineer.<br />
+I have started programming when I was 10 at code school and have worked on IT company since 2015.<br />
+Mainly focused on web development, but in recent years I have dived in the Blockchain field and worked on some projects of smart contracts and Dapps.<br />
 
 ✅React js • Redux • Redux-saga • Redux-thunk • React Hook<br />
 ✅Vue js • Vuetify • Vuex<br />
