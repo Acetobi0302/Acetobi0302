@@ -2,17 +2,17 @@
 
 <h1 align="center">👋 Senior Blockchain and Frontend Engineer</h1>
 
-😎 Trusted engineer with 5+ years of experience in blockchain industry.
+😎 Trusted engineer with 7+ years of experience in blockchain industry.
 
-✅React js • Redux • Redux-saga • Redux-thunk • React Hook
-✅Vue js • Vuetify • Vuex
-✅Angular js • NgRX • RxJS • Angular Material
-✅React Native
-✅HTML/CSS, Javascript, jQuery, Scss/Less, Tailwind CSS, Canvas, Animation
-✅TypeScript, Python • Django • Web Scriping, PHP • Laravel etc
-✅Blockchain : Etherieum, Solidity, Solana, Web3.js, DeFi etc
-✅Skype ID: live:.cid.f2ecb8d91814e046
-✅Mail: danjonrichardson@gmail.com
+✅React js • Redux • Redux-saga • Redux-thunk • React Hook<br />
+✅Vue js • Vuetify • Vuex<br />
+✅Angular js • NgRX • RxJS • Angular Material<br />
+✅React Native<br />
+✅HTML/CSS, Javascript, jQuery, Scss/Less, Tailwind CSS, Canvas, Animation<br />
+✅TypeScript, Python • Django • Web Scriping, PHP • Laravel etc<br />
+✅Blockchain : Etherieum, Solidity, Solana, Web3.js, DeFi etc<br />
+✅Skype ID: live:.cid.f2ecb8d91814e046<br />
+✅Mail: danjonrichardson@gmail.com<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Acetobi0302&label=Profile%20views&color=0e75b6&style=flat" alt="Astroboy0302" /> </p>
 <p align="center" style = "size:16px;">
