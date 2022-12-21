@@ -46,11 +46,3 @@
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/astrotoby0302/)
 <br />
 
----
-
-<h1 align="center"></h1>
- <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Acetobi0302&theme=github" /> 
-<h1 align="center"></h1>
-
-
----
