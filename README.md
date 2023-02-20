@@ -3,8 +3,8 @@
 <h1 align="center">👋 Senior Blockchain and Frontend Engineer</h1>
 
 Thanks for your visiting my profile.<br />
-I'm ✌Daniel Jonathan Richard✌ from United State and an experienced Blockchain Developer and Frontend Engineer.<br />
-I have started programming when I was 10 at code school and have worked on IT company since 2015.<br />
+I'm ✌Aleksander Bar✌ from Belarus and an experienced Blockchain Developer and Frontend Engineer.<br />
+I have started programming when I was 10 at code school and have worked on IT company since 2017.<br />
 Mainly focused on web development, but in recent years I have dived in the Blockchain field and worked on some projects of smart contracts and Dapps.<br />
 
 ✅React js • Redux • Redux-saga • Redux-thunk • React Hook<br />
@@ -15,7 +15,7 @@ Mainly focused on web development, but in recent years I have dived in the Block
 ✅TypeScript, Python • Django • Web Scriping, PHP • Laravel etc<br />
 ✅Blockchain : Etherieum, Solidity, Solana, Web3.js, DeFi etc<br />
 ✅Skype ID: live:.cid.f2ecb8d91814e046<br />
-✅Mail: danjonrichardson@gmail.com<br />
+✅Mail: monathcorey@gmail.com<br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Acetobi0302&label=Profile%20views&color=0e75b6&style=flat" alt="Astroboy0302" /> </p>
 <p align="center" style = "size:16px;">
