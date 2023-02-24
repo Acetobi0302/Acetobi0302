@@ -3,7 +3,7 @@
 <h1 align="center">👋 Senior Blockchain and Frontend Engineer</h1>
 
 Thanks for your visiting my profile.<br />
-I'm ✌Aleksander Bar✌ from Belarus and an experienced Blockchain Developer and Frontend Engineer.<br />
+I'm an experienced Blockchain Developer and Frontend Engineer.<br />
 I have started programming when I was 10 at code school and have worked on IT company since 2017.<br />
 Mainly focused on web development, but in recent years I have dived in the Blockchain field and worked on some projects of smart contracts and Dapps.<br />
 
